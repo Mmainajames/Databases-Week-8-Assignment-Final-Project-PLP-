@@ -13,8 +13,9 @@ The project includes:
 ---
 
 ## 🗂️ Entity Relationship Diagram (ERD)
+<img width="3303" height="3840" alt="ERD" src="https://github.com/user-attachments/assets/d21876ea-539b-4c37-92b8-dddd127e6e77" />
 
-![ERD](ERD.png)
+
 
 ---
 
@@ -75,10 +76,9 @@ mysql -u your_username -p food_delivery < queries.sql
 ---
 
 ## ✅ Deliverables
-- `schema.sql` → Database schema  
-- `queries.sql` → SQL queries  
+- `schema.sql` → Database schema +  SQL queries
 - `customers.csv`, `restaurants.csv`, `menu.csv`, `orders.csv`, `order_details.csv` → Dataset  
-- `food_delivery_erd.png` → Entity Relationship Diagram  
+- `ERD.png` → Entity Relationship Diagram  
 - `README.md` → Project documentation  
 
 ---
