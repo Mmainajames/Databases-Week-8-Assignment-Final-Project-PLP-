@@ -1,0 +1,251 @@
+item_id,restaurant_id,item_name,price
+1,84,Chapati,1541
+2,13,Nyama Choma,537
+3,62,Chapati,371
+4,76,Githeri,1163
+5,88,Irio,119
+6,2,Matoke,1773
+7,16,Fish Curry,1521
+8,17,Samaki Wa Kupaka,245
+9,30,Chicken Fry,282
+10,94,Mandazi,311
+11,41,Beef Stew,1904
+12,39,Sukuma Wiki,883
+13,100,Sukuma Wiki,1413
+14,87,Sukuma Wiki,240
+15,68,Bhajia,117
+16,79,Tilapia Fry,1001
+17,45,Pilau,1386
+18,96,Sukuma Wiki,1983
+19,53,Samosa,1506
+20,57,Pilau,277
+21,13,Sukuma Wiki,1641
+22,16,Bhajia,1595
+23,50,Beef Stew,979
+24,41,Sukuma Wiki,607
+25,36,Chapati,608
+26,71,Samosa,1328
+27,93,Samosa,683
+28,100,Nyama Choma,1836
+29,85,Mukimo,520
+30,67,Samosa,1143
+31,25,Chicken Fry,705
+32,83,Ugali,1705
+33,31,Samaki Wa Kupaka,890
+34,15,Githeri,1123
+35,82,Samosa,245
+36,68,Nyama Choma,839
+37,41,Sukuma Wiki,892
+38,73,Fish Curry,848
+39,70,Tilapia Fry,1662
+40,61,Chapati,134
+41,76,Chapati,128
+42,34,Pilau,181
+43,8,Chicken Fry,1137
+44,37,Mutura,1671
+45,54,Fish Curry,1537
+46,52,Chapati,1411
+47,69,Chips Masala,1361
+48,20,Kachumbari,271
+49,40,Chapati,1147
+50,27,Sukuma Wiki,1198
+51,42,Chicken Fry,1301
+52,82,Chapati,735
+53,90,Fish Curry,1594
+54,31,Ugali,600
+55,12,Fish Curry,337
+56,59,Samosa,1346
+57,8,Mukimo,1464
+58,95,Tilapia Fry,344
+59,2,Sukuma Wiki,1536
+60,2,Tilapia Fry,1116
+61,45,Mutura,1159
+62,93,Kachumbari,441
+63,48,Sukuma Wiki,1635
+64,100,Kachumbari,1601
+65,16,Nyama Choma,786
+66,55,Kachumbari,1172
+67,9,Kachumbari,1558
+68,74,Chapati,1116
+69,59,Mutura,837
+70,8,Samaki Wa Kupaka,1859
+71,73,Tilapia Fry,853
+72,21,Kachumbari,1683
+73,14,Bhajia,1480
+74,93,Mandazi,567
+75,95,Mutura,105
+76,6,Nyama Choma,600
+77,6,Samaki Wa Kupaka,845
+78,50,Sukuma Wiki,466
+79,5,Chips Masala,1744
+80,92,Fish Curry,559
+81,42,Githeri,952
+82,93,Matoke,655
+83,10,Bhajia,863
+84,16,Mutura,1478
+85,7,Tilapia Fry,557
+86,67,Ugali,921
+87,9,Irio,1873
+88,37,Mukimo,770
+89,12,Chips Masala,1035
+90,2,Beef Stew,510
+91,38,Bhajia,1706
+92,39,Samosa,596
+93,60,Beef Stew,1311
+94,64,Pilau,1600
+95,70,Githeri,408
+96,1,Fish Curry,148
+97,30,Chips Masala,809
+98,82,Nyama Choma,786
+99,1,Chicken Fry,1838
+100,95,Mukimo,312
+101,27,Mutura,587
+102,54,Samaki Wa Kupaka,222
+103,19,Kachumbari,290
+104,6,Githeri,1937
+105,67,Fish Curry,1535
+106,48,Irio,1631
+107,11,Bhajia,295
+108,65,Sukuma Wiki,1405
+109,51,Chapati,1312
+110,73,Ugali,990
+111,85,Sukuma Wiki,584
+112,38,Kachumbari,1842
+113,41,Chicken Fry,1535
+114,95,Matoke,751
+115,58,Kachumbari,578
+116,10,Pilau,378
+117,100,Bhajia,323
+118,20,Mandazi,436
+119,58,Irio,743
+120,53,Mandazi,1197
+121,46,Pilau,1025
+122,40,Irio,642
+123,16,Chapati,422
+124,88,Mukimo,1792
+125,91,Samosa,182
+126,28,Matoke,403
+127,12,Githeri,828
+128,51,Mutura,200
+129,87,Mukimo,632
+130,23,Nyama Choma,928
+131,58,Chips Masala,1632
+132,71,Githeri,293
+133,60,Mandazi,1746
+134,18,Mandazi,124
+135,8,Githeri,367
+136,26,Chicken Fry,862
+137,88,Chapati,1292
+138,76,Kachumbari,1978
+139,10,Nyama Choma,232
+140,26,Irio,1757
+141,17,Chapati,1953
+142,43,Mandazi,187
+143,60,Ugali,444
+144,74,Fish Curry,1782
+145,93,Chicken Fry,1116
+146,4,Chicken Fry,1499
+147,55,Tilapia Fry,824
+148,28,Tilapia Fry,663
+149,36,Irio,1909
+150,20,Ugali,1357
+151,80,Samosa,603
+152,83,Mukimo,1121
+153,53,Chips Masala,1081
+154,8,Chapati,672
+155,50,Sukuma Wiki,958
+156,26,Mutura,610
+157,81,Chips Masala,1727
+158,3,Chicken Fry,1701
+159,92,Beef Stew,1082
+160,70,Samaki Wa Kupaka,804
+161,73,Mutura,758
+162,50,Kachumbari,468
+163,4,Matoke,1322
+164,29,Nyama Choma,1934
+165,100,Kachumbari,219
+166,61,Mutura,832
+167,99,Bhajia,576
+168,21,Mandazi,607
+169,85,Githeri,645
+170,69,Ugali,1664
+171,29,Bhajia,1833
+172,50,Beef Stew,1818
+173,23,Tilapia Fry,584
+174,76,Matoke,1751
+175,95,Beef Stew,1971
+176,76,Nyama Choma,1540
+177,90,Beef Stew,1262
+178,73,Sukuma Wiki,1253
+179,25,Samaki Wa Kupaka,1210
+180,40,Tilapia Fry,1104
+181,5,Chapati,215
+182,30,Samosa,548
+183,3,Mutura,1078
+184,1,Matoke,1979
+185,79,Pilau,1751
+186,17,Matoke,1568
+187,23,Matoke,221
+188,3,Sukuma Wiki,1301
+189,91,Sukuma Wiki,1685
+190,15,Mutura,1862
+191,47,Chapati,865
+192,91,Chicken Fry,1300
+193,13,Matoke,718
+194,42,Sukuma Wiki,422
+195,94,Fish Curry,1721
+196,82,Samaki Wa Kupaka,1429
+197,41,Tilapia Fry,1548
+198,72,Samosa,1711
+199,46,Githeri,1463
+200,76,Tilapia Fry,874
+201,40,Mukimo,360
+202,23,Nyama Choma,1537
+203,74,Chicken Fry,1842
+204,99,Bhajia,166
+205,24,Samosa,751
+206,79,Githeri,1409
+207,73,Mandazi,1116
+208,19,Matoke,1626
+209,10,Githeri,810
+210,41,Tilapia Fry,1402
+211,12,Matoke,1014
+212,2,Kachumbari,529
+213,32,Chapati,817
+214,33,Mandazi,1575
+215,1,Ugali,890
+216,57,Fish Curry,440
+217,53,Samaki Wa Kupaka,1905
+218,49,Beef Stew,1218
+219,49,Mandazi,1797
+220,62,Bhajia,1433
+221,98,Githeri,433
+222,58,Chapati,1736
+223,5,Mukimo,141
+224,41,Kachumbari,314
+225,10,Matoke,448
+226,49,Tilapia Fry,1599
+227,10,Chips Masala,1939
+228,12,Matoke,1316
+229,79,Samaki Wa Kupaka,1542
+230,4,Fish Curry,1438
+231,22,Samosa,1922
+232,56,Tilapia Fry,209
+233,13,Matoke,520
+234,25,Fish Curry,1527
+235,71,Chips Masala,643
+236,85,Mukimo,709
+237,31,Mandazi,201
+238,51,Bhajia,1225
+239,63,Sukuma Wiki,211
+240,47,Nyama Choma,975
+241,12,Mukimo,1787
+242,85,Samosa,1083
+243,26,Mandazi,152
+244,27,Tilapia Fry,1407
+245,38,Chapati,1069
+246,15,Mukimo,1707
+247,51,Samaki Wa Kupaka,1101
+248,85,Kachumbari,286
+249,83,Chips Masala,893
+250,24,Beef Stew,1913
